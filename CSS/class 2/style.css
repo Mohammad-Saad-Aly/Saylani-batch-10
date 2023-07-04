@@ -1,0 +1,108 @@
+/* @font-face {
+    font-family: 'Ali' ;
+    src: url('./RobotoMono-Italic-VariableFont_wght.ttf');
+} */
+
+/* p{ */
+    /* font-family: 'Ali'; */
+    /* font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; */
+    /* font-size: large; */
+/* } */
+
+/* p{
+    font-family: 'Roboto Mono', monospace;
+    font-weight: bolder;
+    font-style: italic; 
+    text-transform: capitalize;
+    line-height: 80px;
+    word-spacing: 20px;
+    letter-spacing: 20px;
+    text-align: center;
+} */
+
+/* a{
+    text-decoration: none;
+} */
+
+/* #abc{ */
+    /* word-spacing: 10px; */
+    /* font-weight: bold; */
+    /* text-align: right; */
+/* } */
+
+/* input{
+    background-color: aqua;
+}
+input:hover{
+    background-color: blue;
+}
+input:active{
+    background-color: yellow;
+} */
+
+/* input:focus{
+    background-color: red;
+} */
+a:link{
+    background-color: aqua;
+}
+a:visited{
+    background-color: red;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* p{ */
+    /* text-align: justify; */
+    /* text-shadow: 10px 10px 10px red; */
+/* } */
+
+/* p::first-line{
+    font-size: 40px;
+} */
+
+
+
+
+
+
+/* .abc{
+    background-color: aqua;
+    box-shadow: 10px 10px 10px blue;
+} */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
