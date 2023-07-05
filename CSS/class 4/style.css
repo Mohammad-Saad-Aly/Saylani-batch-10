@@ -1,0 +1,83 @@
+/* ul{ */
+    /* list-style: inside lower-alpha; */
+    /* list-style-type: lower-roman;
+    list-style-position: inside; */
+/* } */
+
+/* th{
+    background-color: green;
+}
+
+
+#abc{
+    background-color: gray;
+    color: white;
+}
+
+.abc{
+    background-color: yellow;
+}
+
+td:hover{
+    background-color: black;
+    color: white;
+    transform: scale(1.2);
+}
+
+td{
+    text-align: center;
+}
+
+table{
+    margin: auto;
+    background-color: aqua;
+    width: 70%;
+    padding: 5px;
+    border-spacing: 10px;
+}
+
+table,td,th{
+    border: 3px solid black;
+
+
+
+
+
+
+} */
+
+*{
+    background-image: url('https://static.thenounproject.com/png/4830332-200.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+
+
+
+
+/* 
+table,th,td{
+    border: 2px solid black;
+    border-collapse: separate;
+} */
+/* #pass{
+    background-image: url('https://static.thenounproject.com/png/4830332-200.png');
+    background-size: 20px;
+    background-repeat: no-repeat;
+    background-position: left;
+    padding-left: 20px;
+} */
+
+
+label{
+    text-align: center;
+    display: inline-block;
+    width: 100px;
+}
+
+
+
+
+
