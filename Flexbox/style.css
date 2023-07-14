@@ -1,0 +1,36 @@
+.main{
+    display: flex;
+    width: 50%;
+    flex-wrap: wrap;
+    /* justify-content: center; */
+    align-items: flex-start;
+    /* justify-content: space-evenly; */
+    /* flex-direction: column-reverse; */
+    padding: 5px;
+    height: 300px;
+    background-color: black;
+    /* color: white; */
+}
+.one{
+    justify-items: flex-end;
+    order: 1;
+    /* align-self: flex-start; */
+    background-color: aqua;
+}
+.two{
+    background-color: yellow;
+}
+.three{
+    order: 2;
+    /* align-self: center; */
+    background-color: greenyellow;
+}
+.four{
+    order: -2;
+    background-color: orange;
+}
+.five{
+    order: -1;
+    /* align-self: center; */
+    background-color: blue;
+}
